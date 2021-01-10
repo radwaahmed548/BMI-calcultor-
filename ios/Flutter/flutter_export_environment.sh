@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/macbook/developer /flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/macbook/AndroidStudioProjects/bmi-calculator-flutter"
-export "FLUTTER_TARGET=/Users/macbook/AndroidStudioProjects/bmi-calculator-flutter/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/macbook/level three/semster two/SW2/project/BMI-calculator---flutter-"
+export "FLUTTER_TARGET=/Users/macbook/level three/semster two/SW2/project/BMI-calculator---flutter-/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "OTHER_LDFLAGS=$(inherited) -framework Flutter"
